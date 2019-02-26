@@ -1,2 +1,0 @@
-# Webbprogrammering
-Created with CodeSandbox
